@@ -1,0 +1,19 @@
+{
+  "title": "Convict Colosseum",
+  "description": "",
+  "artist": "Pinakanaka",
+  "author": "Pinakanaka",
+  "cover": "https://i.imgur.com/xNmulxm.png",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "1",
+      "last_updated": "1744293372",
+      "groups": {
+        "": [
+          "https://i.imgur.com/q5f8dQd.png"
+        ]
+      }
+    }
+  }
+}
