@@ -6,11 +6,11 @@
   "cover": "https://i.imgur.com/xNmulxm.png",
   "chapters": {
     "0": {
-      "title": "0",
+      "title": "0 - The Man He Is Looking For",
       "volume": "1",
-      "last_updated": "1744293372",
+      "last_updated": "1744293965",
       "groups": {
-        "The Man He Is Looking For": [
+        "": [
           "https://i.imgur.com/q5f8dQd.png",
           "https://i.imgur.com/kmrEyLM.png",
           "https://i.imgur.com/mSYuDuy.png",
@@ -19,16 +19,6 @@
           "https://i.imgur.com/qxKhL1k.png",
           "https://i.imgur.com/BnaPIZV.png",
           "https://i.imgur.com/dCQFoUJ.png"
-        ]
-      }
-    },
-    "1": {
-      "title": "1",
-      "volume": "1",
-      "last_updated": "1744293797",
-      "groups": {
-        "The Man He Is Looking For": [
-          "https://imgur.com/a/convict-colosseum-round-1-match-1-c7z0rjp#xNmulxm"
         ]
       }
     }
